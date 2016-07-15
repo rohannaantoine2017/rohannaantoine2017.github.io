@@ -1,0 +1,21 @@
+body {
+	 background-color: lavenderblush;
+	 text-align: center;
+	 color:grey;
+	font-family: 'Cormorant Unicase', serif;
+	font-size:40px;
+}
+
+h1{
+	text-align:center;
+	background-image: url(images/large.jpg);
+ 	height:50px;
+ 	font-size: 39px;
+ 	letter-spacing:75px;
+ 	color:purple;
+
+}
+img{
+	height:25%;
+	width:25%;
+}
